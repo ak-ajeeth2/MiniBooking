@@ -1,0 +1,6 @@
+[2025-10-09T14:27:54.074Z] BOOKED by ak@gmail.com - SlotID: 2, Seats: B2
+[2025-10-09T14:31:52.309Z] CANCELLED by ak@gmail.com - SlotID: 2, Seat: B2, Customer: Victor
+[2025-10-09T14:34:07.231Z] BOOKED by ak@gmail.com - SlotID: 2, Seats: C2
+[2025-10-09T14:34:11.124Z] CANCELLED by ak@gmail.com - SlotID: 2, Seat: B4, Customer: Victor
+[2025-10-09T14:34:15.317Z] CANCELLED by ak@gmail.com - SlotID: 2, Seat: C2, Customer: Victor
+[2025-10-09T14:34:19.724Z] CANCELLED by ak@gmail.com - SlotID: 2, Seat: B3, Customer: Victor
